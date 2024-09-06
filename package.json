@@ -30,14 +30,14 @@
     "class-validator": "^0.14.0",
     "dotenv": "^16.0.3",
     "firebase": "^9.15.0",
-    "jsonwebtoken": "^9.0.0",
+    "jsonwebtoken": "^9.0.2",
     "pg": "^8.8.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^4.3.1",
     "rxjs": "^7.2.0",
     "sequelize-typescript": "^2.1.6",
     "swagger": "^0.7.5",
-    "swagger-ui": "^4.16.1",
+    "swagger-ui": "^5.17.8",
     "trim": "^1.0.1"
   },
   "devDependencies": {
