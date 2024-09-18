@@ -23,8 +23,8 @@
   "dependencies": {
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
-    "@nestjs/platform-express": "^9.0.0",
-    "@nestjs/swagger": "^6.1.2",
+    "@nestjs/platform-express": "^10.4.2",
+    "@nestjs/swagger": "^7.4.1",
     "bcrypt": "^5.1.0",
     "class-transformer": "^0.5.1",
     "class-validator": "^0.14.0",
@@ -37,7 +37,7 @@
     "rxjs": "^7.2.0",
     "sequelize-typescript": "^2.1.6",
     "swagger": "^0.7.5",
-    "swagger-ui": "^4.16.1",
+    "swagger-ui": "^5.17.11",
     "trim": "^1.0.1"
   },
   "devDependencies": {
